@@ -1,0 +1,50 @@
+.container-fluid {
+    text-align: center;
+    background-color: rgb(60, 4, 4);
+    height: 30%;
+    padding-left: 5px;
+    color: white;
+    font-family: "Fugaz One";
+    background-image: linear-gradient(to left, rgba(43, 69, 172, 0.452), rgb(26, 36, 85));
+    padding-bottom: 20px;
+}
+
+.result {
+    display: none;
+    /* background-image: linear-gradient(to left, rgb(27, 159, 204), rgb(70, 113, 125)); */
+    background-image: linear-gradient(to left, rgb(93, 219, 238), rgb(21, 117, 119));
+}
+
+#btn {
+    height: 35px;
+    text-align: center;
+    border-radius: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to left, rgb(45, 52, 56), rgb(77, 117, 211));
+}
+
+#resetbtn {
+    height: 35px;
+    border-radius: 2px;
+    background-image: linear-gradient(to left, rgb(45, 52, 56), rgb(77, 117, 211));
+    padding-left: 15px;
+}
+
+#searchtext {
+    display: inline-block;
+    border-radius: 5px;
+    background-image: linear-gradient(to left, rgb(255, 255, 255), rgb(255, 249, 249));
+}
+
+
+.container {
+    color: black;
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+
+}
+
+body {
+    background-image: linear-gradient(to left, rgb(93, 219, 238), rgb(21, 117, 119));
+}
